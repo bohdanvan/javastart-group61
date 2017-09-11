@@ -1,3 +1,5 @@
+package com.bvan.javastart.lesson3.types.object_type;
+
 /**
  * @author bvanchuhov
  */

@@ -1,3 +1,5 @@
+package com.bvan.javastart.lesson3.types.double_type;
+
 /**
  * @author bvanchuhov
  */
