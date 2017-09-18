@@ -13,6 +13,8 @@ Prog.kiev.ua. Java Start. Группа 55
 
 [Java Start. Богдан. Группа 61. Лекция 5 (13.09.2017)](https://prog.kiev.ua/forum/index.php/topic,3136.0.html)
 
+[Java Start. Богдан. Группа 61. Лекция 6 (18.09.2017)](https://prog.kiev.ua/forum/index.php/topic,3132.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
